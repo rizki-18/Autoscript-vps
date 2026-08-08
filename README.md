@@ -11,6 +11,37 @@
 
 ---
 
+## 🔰 Layanan & Protokol yang Didukung
+
+Skrip ini mendukung penuh berbagai protokol *tunneling* modern yang terintegrasi secara mulus dalam sistem **Xray Core** dan **SSH**:
+
+* 🛡️ **SSH & VPN**
+  * SSH SSL / Stunnel
+  * SSH WebSocket (WS)
+* 🚀 **Xray Core**
+  * **Vmess** : TLS, NTLS (Non-TLS), gRPC
+  * **Vless** : TLS, NTLS (Non-TLS), gRPC
+  * **Trojan** : TLS, NTLS (Non-TLS), gRPC
+* 🎮 **Layanan Ekstra**
+  * **UDP Custom** (Mendukung panggilan suara & game online)
+  * **BadVPN**
+
+---
+
+## 🔌 Informasi Port (Publik / Pelanggan)
+
+Berikut adalah daftar *port* standar yang akan otomatis dikonfigurasi dan siap digunakan oleh pelanggan Anda:
+
+| Protokol / Layanan | Port Terbuka |
+| :--- | :--- |
+| **Xray TLS / HTTPS / SSL** | `443` |
+| **SSH WebSocket / HTTP** | `80` |
+| **UDP Custom** | `1 - 65535` |
+| **BadVPN** | `7300` |
+
+---
+
+
 ## 🖥️ Kompatibilitas Sistem Operasi
 
 Skrip ini dikembangkan agar tahan banting dan kompatibel dengan OS Linux berikut:
@@ -41,6 +72,7 @@ apt-get update -y && apt-get install wget -y && wget -qO install.sh https://raw.
 ```
 ![Tampilan Menu Skrip](https://raw.githubusercontent.com/rizki-18/Autoscript-vps/main/Screenshot_20260808-193454.png)
 
+---
 
 ## 📞 Kontak & Bantuan
 
