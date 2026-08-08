@@ -37,9 +37,9 @@ Sebelum mengeksekusi skrip, pastikan Anda telah menyiapkan 3 hal berikut:
 Login ke terminal VPS Anda sebagai pengguna **`root`**, lalu *copy-paste* perintah di bawah ini dan tekan `ENTER`:
 
 ```bash
-apt-get update -y && apt-get install wget -y && wget -qO install.sh [https://raw.githubusercontent.com/rizki-18/Autoscript-vps/main/install.sh](https://raw.githubusercontent.com/rizki-18/Autoscript-vps/main/install.sh) && chmod +x install.sh && ./install.sh
+apt-get update -y && apt-get install wget -y && wget -qO install.sh [https://raw.githubusercontent.com/rizki-18/Autoscript-vps/main/install.sh](https://raw.githubusercontent.com/rizki-18/Autoscript-vps/main/install.sh) && chmod +x install.sh && ./install.sh```
 
-📞 Kontak & Bantuan
+## 📞 Kontak & Bantuan
 
 Untuk dukungan teknis, pertanyaan, atau pemesanan skrip *custom*, silakan hubungi kontak resmi di bawah ini:
 
