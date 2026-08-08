@@ -44,8 +44,8 @@ apt-get update -y && apt-get install wget -y && wget -qO install.sh [https://raw
 
 Untuk dukungan teknis, pertanyaan, atau pemesanan skrip *custom*, silakan hubungi kontak resmi di bawah ini:
 
-* 💬 **WhatsApp :** [Klik di sini untuk Chat](https://wa.me/6281994752984)
-* ✈️ **Telegram :** [t.me/mrapandi](https://t.me/mrapandi)
+* 💬 **WhatsApp :** [Klik di sini](https://wa.me/6281994752984)
+* ✈️ **Telegram :** [klik di sini](https://t.me/mrapandi)
 
 ---
 **&copy; 2026 Rizki18_Project. All Rights Reserved.**
